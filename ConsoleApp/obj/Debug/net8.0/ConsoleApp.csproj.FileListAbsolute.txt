@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ConsoleApp75\ConsoleApp75\bin\Debug\net8.0\ConsoleApp75.exe
+C:\Users\Admin\source\repos\ConsoleApp75\ConsoleApp75\bin\Debug\net8.0\ConsoleApp75.deps.json
+C:\Users\Admin\source\repos\ConsoleApp75\ConsoleApp75\bin\Debug\net8.0\ConsoleApp75.runtimeconfig.json
+C:\Users\Admin\source\repos\ConsoleApp75\ConsoleApp75\bin\Debug\net8.0\ConsoleApp75.dll
+C:\Users\Admin\source\repos\ConsoleApp75\ConsoleApp75\bin\Debug\net8.0\ConsoleApp75.pdb
+C:\Users\Admin\source\repos\ConsoleApp75\ConsoleApp75\obj\Debug\net8.0\ConsoleApp75.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleApp75\ConsoleApp75\obj\Debug\net8.0\ConsoleApp75.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp75\ConsoleApp75\obj\Debug\net8.0\ConsoleApp75.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleApp75\ConsoleApp75\obj\Debug\net8.0\ConsoleApp75.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp75\ConsoleApp75\obj\Debug\net8.0\ConsoleApp75.dll
+C:\Users\Admin\source\repos\ConsoleApp75\ConsoleApp75\obj\Debug\net8.0\refint\ConsoleApp75.dll
+C:\Users\Admin\source\repos\ConsoleApp75\ConsoleApp75\obj\Debug\net8.0\ConsoleApp75.pdb
+C:\Users\Admin\source\repos\ConsoleApp75\ConsoleApp75\obj\Debug\net8.0\ConsoleApp75.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ConsoleApp75\ConsoleApp75\obj\Debug\net8.0\ref\ConsoleApp75.dll
